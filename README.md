@@ -12,7 +12,7 @@ I think it can't register any marketplace but No one knows the future
 
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software
+the ModooCoin Core software
 
 License
 -------
